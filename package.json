@@ -1,0 +1,11 @@
+{
+  "name": "mapolist",
+  "version": "1.0.0",
+  "description": "게시판을 시험삼아 만들어 본 웹입니다. - mysql , nodejs를 활용하여 제작하였습니다. ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "skycho71@gmail.com",
+  "license": "ISC"
+}
